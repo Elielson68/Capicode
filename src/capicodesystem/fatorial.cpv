@@ -1,0 +1,19 @@
+:VARIAVEIS
+argumento: NUMERAL
+fatorial: NUMERAL
+
+:ALGORITMO
+
+% Calcula o fatorial de um numero inteiro
+
+argumento GUARDA fatorial
+NAMORAL QUE argumento == 0 ENTAO fatorial GUARDA 1
+
+SEGUROO argumento<100
+ COMECO
+  fatorial GUARDA fatorial * (argumento - 1)
+  argumento GUARDA argumento - 1.0
+ ACABOU
+MOSTRAR fatorial
+
+
