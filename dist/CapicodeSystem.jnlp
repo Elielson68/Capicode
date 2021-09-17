@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="CapicodeSystem.jnlp">
+  <information>
+    <title>CapicodeSystem</title>
+    <vendor>Outros</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="CapicodeSystem.jar" size="11050" download="eager" />
+    <jar href="lib\antlr-4.9.2-complete.jar" size="2100564" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CapicodeSystem" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="capicodesystem.CapicodeSystem"  name="CapicodeSystem" />
+  <update check="always"/>
+</jnlp>
