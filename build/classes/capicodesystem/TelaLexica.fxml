@@ -7,9 +7,9 @@
 <?import javafx.scene.shape.Line?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="AnchorPane" prefHeight="362.0" prefWidth="924.0" scaleShape="false" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="capicodesystem.FXMLDocumentController">
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" pickOnBounds="false" prefHeight="362.0" prefWidth="924.0" scaleShape="false" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="capicodesystem.FXMLDocumentController">
     <children>
-      <Button fx:id="button1" contentDisplay="CENTER" disable="true" layoutX="368.0" layoutY="309.0" onAction="#handleButtonAction" prefHeight="35.0" prefWidth="186.0" style="-fx-background-color: #00FF7F;" text="Rodar Análise Sintática" textAlignment="CENTER" textFill="WHITE">
+      <Button fx:id="btn_sintatico" contentDisplay="CENTER" layoutX="368.0" layoutY="309.0" onAction="#ClickSintatico" prefHeight="35.0" prefWidth="186.0" style="-fx-background-color: #00FF7F;" text="Rodar Análise Sintática" textAlignment="CENTER" textFill="WHITE">
          <font>
             <Font name="Arial Bold" size="14.0" />
          </font>
@@ -39,6 +39,6 @@
             <Font size="16.0" />
          </font>
       </Label>
-      <TextArea fx:id="textbox_tokens1" disable="true" editable="false" layoutX="643.0" layoutY="64.0" prefHeight="233.0" prefWidth="271.0" />
+      <TextArea fx:id="textbox_sintatico" layoutX="643.0" layoutY="64.0" prefHeight="233.0" prefWidth="271.0" />
     </children>
 </AnchorPane>

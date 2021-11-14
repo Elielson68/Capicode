@@ -3,11 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/capicodesystem/FXMLDocument.fxml</file>
-            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/capicodesystem/TelaLexica.fxml</file>
+            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/com/mycompany/capivaracode/CapicodeLexer.java</file>
+            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/com/mycompany/capivaracode/CapicodeLexer.interp</file>
+            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/com/mycompany/capivaracode/CapicodeListener.java</file>
             <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/capicodesystem/FXMLDocumentController.java</file>
             <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/capicodesystem/fatorial.cpv</file>
-            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/capicodesystem/CapicodeSystem.java</file>
+            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/com/mycompany/capivaracode/CapicodeBaseListener.java</file>
+            <file>file:/C:/Users/eliel/Documents/NetBeansProjects/CapicodeSystem/src/com/mycompany/capivaracode/CapicodeParser.java</file>
         </group>
     </open-files>
 </project-private>

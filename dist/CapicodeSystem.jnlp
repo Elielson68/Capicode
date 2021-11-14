@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="CapicodeSystem.jar" size="11050" download="eager" />
+    <jar href="CapicodeSystem.jar" size="43450" download="eager" />
     <jar href="lib\antlr-4.9.2-complete.jar" size="2100564" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="CapicodeSystem" >

@@ -1,0 +1,9 @@
+:VARIAVEIS
+valor1:NUMERAL
+valor2:NUMERAL
+
+:ALGORITMO
+% Verifica maior número
+valor1 GUARDA 5
+valor2 GUARDA 10
+NAMORAL QUE valor1 > valor2 ENTAO MOSTRAR 'valor1 é maior que valor2' NAOROLOU MOSTRAR 'valor2 é maior que valor1'
